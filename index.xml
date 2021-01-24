@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Sound Of AI - Open source Research</title>
+    <link>https://thesoundofai.github.io/</link>
+    <description>Recent content on The Sound Of AI - Open source Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://thesoundofai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://thesoundofai.github.io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofai.github.io/</guid>
+      <description>Open Source Research#OpenSource Research is an experimental project which aims to create a piece of collaborative research in the field of AI music.
+The members of The Sound of AI (youtube channel) community collaborate to carry out research, following the philosophy and practices of open source software and open research.
+Kickoff video#  Get Involved#Get Involved, fill up this survey...steps details in How can I get involved?</description>
+    </item>
+    
+  </channel>
+</rss>
