@@ -16,5 +16,203 @@
       <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-26531c5d2bbec14b&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-26531c5d2bbec14b&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
+    <item>
+      <title>Speech To text</title>
+      <link>https://thesoundofaiosr.github.io/docs/researchgroups/1_speech_to_text/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/researchgroups/1_speech_to_text/</guid>
+      <description>Literature review summary#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-19ea6e6f9a87cab5&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-19ea6e6f9a87cab5&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};Literature review drive folder#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-eb25a8a448a84678&#34;);button.onclick = ()={var elem = document.</description>
+    </item>
+    
+    <item>
+      <title>Familiarisation</title>
+      <link>https://thesoundofaiosr.github.io/docs/resources/topic_intro/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/resources/topic_intro/</guid>
+      <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-3cfe5d143f886126&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-3cfe5d143f886126&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-a722a2e98c892e61&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-a722a2e98c892e61&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.</description>
+    </item>
+    
+    <item>
+      <title>Kickstart</title>
+      <link>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2020_11_14/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2020_11_14/</guid>
+      <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-2c87e507b08427b8&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-2c87e507b08427b8&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
+      <title>Text to Sound</title>
+      <link>https://thesoundofaiosr.github.io/docs/researchgroups/2_text_to_sound/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/researchgroups/2_text_to_sound/</guid>
+      <description>Literature review summary#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-b26383de2fe053fc&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-b26383de2fe053fc&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};Literature review drive folder#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-5eb245fb7e16bc74&#34;);button.onclick = ()={var elem = document.</description>
+    </item>
+    
+    <item>
+      <title>Phase2 Kickstart</title>
+      <link>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2020_11_28/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2020_11_28/</guid>
+      <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-e1e24ab24cb0fdc1&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-e1e24ab24cb0fdc1&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
+      <title>Topic Selection</title>
+      <link>https://thesoundofaiosr.github.io/docs/resources/topic_selection/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/resources/topic_selection/</guid>
+      <description>Topics Preselection candidates#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-2ad48c99df0e5e01&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-2ad48c99df0e5e01&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};Selected topic#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-9efd9164c5bb8410&#34;);button.onclick = ()={var elem = document.</description>
+    </item>
+    
+    <item>
+      <title>Sound Generation</title>
+      <link>https://thesoundofaiosr.github.io/docs/researchgroups/3_sound_generation/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/researchgroups/3_sound_generation/</guid>
+      <description>Literature review summary#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-4674f4cacade82d8&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-4674f4cacade82d8&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};Literature review drive folder#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-4911582249a0d5bc&#34;);button.onclick = ()={var elem = document.</description>
+    </item>
+    
+    <item>
+      <title>Litterature review</title>
+      <link>https://thesoundofaiosr.github.io/docs/resources/litterature_review/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/resources/litterature_review/</guid>
+      <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-7ff801ba18c34d62&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-7ff801ba18c34d62&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
+      <title>Speed dating session</title>
+      <link>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2020_11_29/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2020_11_29/</guid>
+      <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-fbbe3b232f63734b&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-fbbe3b232f63734b&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
+      <title>Production</title>
+      <link>https://thesoundofaiosr.github.io/docs/researchgroups/4_production/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/researchgroups/4_production/</guid>
+      <description>Literature review summary#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-06e6bc7b32e32885&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-06e6bc7b32e32885&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};Literature review drive folder#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-810d794ffd626958&#34;);button.onclick = ()={var elem = document.</description>
+    </item>
+    
+    <item>
+      <title>Phase 2 Mid-Term Meeting</title>
+      <link>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2020_12_05/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2020_12_05/</guid>
+      <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-66926d8ace6b6337&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-66926d8ace6b6337&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://thesoundofaiosr.github.io/docs/researchgroups/5_music/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/researchgroups/5_music/</guid>
+      <description>Literature review summary#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-95a6550dcd0b6cdb&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-95a6550dcd0b6cdb&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};Literature review drive folder#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-08f19b7d19fa0207&#34;);button.onclick = ()={var elem = document.</description>
+    </item>
+    
+    <item>
+      <title>Phase2 Topic Presentation on Discord</title>
+      <link>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2020_12_06/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2020_12_06/</guid>
+      <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-cadc2da2360c5b95&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-cadc2da2360c5b95&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
+      <title>Evaluation</title>
+      <link>https://thesoundofaiosr.github.io/docs/researchgroups/6_evaluation/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/researchgroups/6_evaluation/</guid>
+      <description>Literature review summary#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-96bd9062e48f6dad&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-96bd9062e48f6dad&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};Literature review drive folder#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-c101b4ed81b5168f&#34;);button.onclick = ()={var elem = document.</description>
+    </item>
+    
+    <item>
+      <title>Phase 3 Kickstart Meeting</title>
+      <link>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2020_12_12/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2020_12_12/</guid>
+      <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-38c19ca1921015df&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-38c19ca1921015df&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
+      <title>Dataset</title>
+      <link>https://thesoundofaiosr.github.io/docs/researchgroups/7_dataset/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/researchgroups/7_dataset/</guid>
+      <description>Literature review summary#summary in section 7 - Dataset Literature review drive folder#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-84a47d4890b2e67f&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-84a47d4890b2e67f&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};Group Folder#Full screenOpen in a new pagevar button = document.</description>
+    </item>
+    
+    <item>
+      <title>Phase 3 Mid-term Meeting</title>
+      <link>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2020_12_19/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2020_12_19/</guid>
+      <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-77785966dc4952cc&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-77785966dc4952cc&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
+      <title>Research Groups Parallel Presentation</title>
+      <link>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2020_12_20/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2020_12_20/</guid>
+      <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-5314c3bf7580b9ef&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-5314c3bf7580b9ef&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
+      <title>Phase 4 kickstart</title>
+      <link>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2020_12_27/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2020_12_27/</guid>
+      <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-c591472f1288fe68&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-c591472f1288fe68&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
+      <title>Phase 4 Mid-Term Meeting</title>
+      <link>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2021_01_09/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2021_01_09/</guid>
+      <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-05cb9ccbca265a56&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-05cb9ccbca265a56&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
+      <title>Phase 4 Parallel Literature Review</title>
+      <link>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2021_01_23/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2021_01_23/</guid>
+      <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-abadd35ffb7b0afe&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-abadd35ffb7b0afe&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
+      <title>Phase 5 Kickstart Meeting</title>
+      <link>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2021_01_24/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2021_01_24/</guid>
+      <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-7d4ad8089d7dc680&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-7d4ad8089d7dc680&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
   </channel>
 </rss>

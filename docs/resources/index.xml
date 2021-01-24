@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on The Sound Of AI - Open source Research</title>
+    <link>https://thesoundofaiosr.github.io/docs/resources/</link>
+    <description>Recent content in Resources on The Sound Of AI - Open source Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://thesoundofaiosr.github.io/docs/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Familiarisation</title>
+      <link>https://thesoundofaiosr.github.io/docs/resources/topic_intro/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/resources/topic_intro/</guid>
+      <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-3cfe5d143f886126&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-3cfe5d143f886126&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-a722a2e98c892e61&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-a722a2e98c892e61&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.</description>
+    </item>
+    
+    <item>
+      <title>Topic Selection</title>
+      <link>https://thesoundofaiosr.github.io/docs/resources/topic_selection/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/resources/topic_selection/</guid>
+      <description>Topics Preselection candidates#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-2ad48c99df0e5e01&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-2ad48c99df0e5e01&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};Selected topic#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-9efd9164c5bb8410&#34;);button.onclick = ()={var elem = document.</description>
+    </item>
+    
+    <item>
+      <title>Litterature review</title>
+      <link>https://thesoundofaiosr.github.io/docs/resources/litterature_review/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/resources/litterature_review/</guid>
+      <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-7ff801ba18c34d62&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-7ff801ba18c34d62&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+  </channel>
+</rss>
