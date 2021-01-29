@@ -98,6 +98,15 @@
     </item>
     
     <item>
+      <title>Design</title>
+      <link>https://thesoundofaiosr.github.io/docs/resources/design/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/resources/design/</guid>
+      <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-4baa507c94e361e1&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-4baa507c94e361e1&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
       <title>Production</title>
       <link>https://thesoundofaiosr.github.io/docs/researchgroups/4_production/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>

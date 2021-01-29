@@ -34,5 +34,14 @@
       <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-7ff801ba18c34d62&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-7ff801ba18c34d62&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
+    <item>
+      <title>Design</title>
+      <link>https://thesoundofaiosr.github.io/docs/resources/design/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/resources/design/</guid>
+      <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-4baa507c94e361e1&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-4baa507c94e361e1&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
   </channel>
 </rss>
