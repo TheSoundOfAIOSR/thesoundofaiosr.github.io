@@ -16,5 +16,17 @@
       <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-26531c5d2bbec14b&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-26531c5d2bbec14b&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
+    <item>
+      <title>This Website How to</title>
+      <link>https://thesoundofaiosr.github.io/docs/howto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/howto/</guid>
+      <description>This documentation is created with hugo a static website generator
+install hugo#Installing hugo is quite simple, as it&amp;rsquo;s a standalone binary that can be downloaded and added to the system path
+hugo getting-started : installingclone this repo#Note the recusive clone to add the git submodules as well
+&amp;gt;git clone --recursive https://github.com/TheSoundOfAIOSR/website.git&amp;gt;cd website test locally#no generation is required to test locally, hugo takes care of generating and serving</description>
+    </item>
+    
   </channel>
 </rss>
