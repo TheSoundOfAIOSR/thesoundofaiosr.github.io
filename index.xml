@@ -44,6 +44,15 @@
     </item>
     
     <item>
+      <title>Audio Annotation</title>
+      <link>https://thesoundofaiosr.github.io/docs/audio_annotation/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/audio_annotation/</guid>
+      <description>How to video#Embedded tool#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-7605b2d3eb23c690&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-7605b2d3eb23c690&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
       <title>Text to Sound</title>
       <link>https://thesoundofaiosr.github.io/docs/researchgroups/2_text_to_sound/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>

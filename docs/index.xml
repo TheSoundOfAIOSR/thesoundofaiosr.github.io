@@ -6,7 +6,7 @@
     <description>Recent content in Docs on The Sound Of AI - Open source Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://thesoundofaiosr.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://thesoundofaiosr.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Onboarding</title>
       <link>https://thesoundofaiosr.github.io/docs/onboarding/onboarding/</link>
@@ -14,6 +14,15 @@
       
       <guid>https://thesoundofaiosr.github.io/docs/onboarding/onboarding/</guid>
       <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-26531c5d2bbec14b&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-26531c5d2bbec14b&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
+      <title>Audio Annotation</title>
+      <link>https://thesoundofaiosr.github.io/docs/audio_annotation/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/audio_annotation/</guid>
+      <description>How to video#Embedded tool#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-7605b2d3eb23c690&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-7605b2d3eb23c690&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
     <item>
