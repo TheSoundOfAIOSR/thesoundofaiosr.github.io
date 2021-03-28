@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://thesoundofaiosr.github.io/docs/resources/design/</loc>
+    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://thesoundofaiosr.github.io/docs/onboarding/onboarding/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -10,11 +15,6 @@
   <url>
     <loc>https://thesoundofaiosr.github.io/docs/researchgroups/1_speech_to_text/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thesoundofaiosr.github.io/docs/resources/topic_intro/</loc>
-    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,12 +33,12 @@
   </url>
   
   <url>
-    <loc>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2020_11_28/</loc>
+    <loc>https://thesoundofaiosr.github.io/docs/resources/topic_intro/</loc>
     <lastmod>2020-11-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thesoundofaiosr.github.io/docs/resources/topic_selection/</loc>
+    <loc>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2020_11_28/</loc>
     <lastmod>2020-11-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,11 +63,6 @@
   </url>
   
   <url>
-    <loc>https://thesoundofaiosr.github.io/docs/resources/design/</loc>
-    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thesoundofaiosr.github.io/docs/researchgroups/4_production/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -84,6 +79,11 @@
   
   <url>
     <loc>https://thesoundofaiosr.github.io/docs/researchgroups/</loc>
+    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thesoundofaiosr.github.io/docs/resources/topic_selection/</loc>
     <lastmod>2020-11-14T00:00:00+00:00</lastmod>
   </url>
   

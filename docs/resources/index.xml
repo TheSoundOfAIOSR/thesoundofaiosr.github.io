@@ -8,21 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://thesoundofaiosr.github.io/docs/resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Design</title>
+      <link>https://thesoundofaiosr.github.io/docs/resources/design/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/resources/design/</guid>
+      <description>Overview#Full Screenfunction setup_svg_panzoom(){let params = {panEnabled: true,zoomEnabled: true,dblClickZoomEnabled: true,controlIconsEnabled: false,mouseWheelZoomEnabled: true,preventMouseEventsDefault: true,zoomScaleSensitivity: 0.6,minZoom: 0.5,maxZoom: 4,fit: true, contain: true, center: true, refreshRate: &#39;auto&#39;};let svg_pz = svgPanZoom(&#39;#svg-8cfcde13936a61cf&#39; ,params);window[&#34;svg_8cfcde13936a61cf&#34;] = svg_pzlet button = document.getElementById(&#34;btn-8cfcde13936a61cf&#34;);button.onclick = ()={var elem = document.getElementById(&#34;svg-8cfcde13936a61cf&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.</description>
+    </item>
+    
+    <item>
       <title>Familiarisation</title>
       <link>https://thesoundofaiosr.github.io/docs/resources/topic_intro/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://thesoundofaiosr.github.io/docs/resources/topic_intro/</guid>
       <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-3cfe5d143f886126&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-3cfe5d143f886126&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-a722a2e98c892e61&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-a722a2e98c892e61&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.</description>
-    </item>
-    
-    <item>
-      <title>Topic Selection</title>
-      <link>https://thesoundofaiosr.github.io/docs/resources/topic_selection/</link>
-      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://thesoundofaiosr.github.io/docs/resources/topic_selection/</guid>
-      <description>Topics Preselection candidates#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-2ad48c99df0e5e01&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-2ad48c99df0e5e01&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};Selected topic#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-9efd9164c5bb8410&#34;);button.onclick = ()={var elem = document.</description>
     </item>
     
     <item>
@@ -35,12 +35,12 @@
     </item>
     
     <item>
-      <title>Design</title>
-      <link>https://thesoundofaiosr.github.io/docs/resources/design/</link>
-      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Topic Selection</title>
+      <link>https://thesoundofaiosr.github.io/docs/resources/topic_selection/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://thesoundofaiosr.github.io/docs/resources/design/</guid>
-      <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-4baa507c94e361e1&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-4baa507c94e361e1&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+      <guid>https://thesoundofaiosr.github.io/docs/resources/topic_selection/</guid>
+      <description>Topics Preselection candidates#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-2ad48c99df0e5e01&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-2ad48c99df0e5e01&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};Selected topic#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-9efd9164c5bb8410&#34;);button.onclick = ()={var elem = document.</description>
     </item>
     
   </channel>
