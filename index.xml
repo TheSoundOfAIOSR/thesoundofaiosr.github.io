@@ -44,6 +44,17 @@
     </item>
     
     <item>
+      <title>Implementation</title>
+      <link>https://thesoundofaiosr.github.io/docs/resources/implementation/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/resources/implementation/</guid>
+      <description>Overview#This repo is used to collect all groups repos and have a common install and run scripts
+ https://github.com/TheSoundOfAIOSR/project_common  Groups repos#sound generation pipeline# https://github.com/TheSoundOfAIOSR/rg_speech_to_text https://github.com/TheSoundOfAIOSR/rg_text_to_sound https://github.com/TheSoundOfAIOSR/rg_sound_generation https://github.com/TheSoundOfAIOSR/rg_production  music#annotation tool :
+ https://github.com/TheSoundOfAIOSR/rg_sound_generation/tree/main/Annotator  evaluation# https://github.com/TheSoundOfAIOSR/rg_evaluation  datasets# https://github.com/TheSoundOfAIOSR/rg_dataset  </description>
+    </item>
+    
+    <item>
       <title>Audio Annotation</title>
       <link>https://thesoundofaiosr.github.io/docs/audio_annotation/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>

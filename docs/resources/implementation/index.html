@@ -5,14 +5,18 @@
   <meta name="generator" content="Hugo 0.79.1" />
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-7d4ad8089d7dc680&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-7d4ad8089d7dc680&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};">
-<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="Phase 5 Kickstart Meeting" />
-<meta property="og:description" content="Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-7d4ad8089d7dc680&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-7d4ad8089d7dc680&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};" />
+<meta name="description" content="Overview#This repo is used to collect all groups repos and have a common install and run scripts
+ https://github.com/TheSoundOfAIOSR/project_common  Groups repos#sound generation pipeline# https://github.com/TheSoundOfAIOSR/rg_speech_to_text https://github.com/TheSoundOfAIOSR/rg_text_to_sound https://github.com/TheSoundOfAIOSR/rg_sound_generation https://github.com/TheSoundOfAIOSR/rg_production  music#annotation tool :
+ https://github.com/TheSoundOfAIOSR/rg_sound_generation/tree/main/Annotator  evaluation# https://github.com/TheSoundOfAIOSR/rg_evaluation  datasets# https://github.com/TheSoundOfAIOSR/rg_dataset  ">
+<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="Implementation" />
+<meta property="og:description" content="Overview#This repo is used to collect all groups repos and have a common install and run scripts
+ https://github.com/TheSoundOfAIOSR/project_common  Groups repos#sound generation pipeline# https://github.com/TheSoundOfAIOSR/rg_speech_to_text https://github.com/TheSoundOfAIOSR/rg_text_to_sound https://github.com/TheSoundOfAIOSR/rg_sound_generation https://github.com/TheSoundOfAIOSR/rg_production  music#annotation tool :
+ https://github.com/TheSoundOfAIOSR/rg_sound_generation/tree/main/Annotator  evaluation# https://github.com/TheSoundOfAIOSR/rg_evaluation  datasets# https://github.com/TheSoundOfAIOSR/rg_dataset  " />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://thesoundofaiosr.github.io/docs/allmembersmeetings/2021_01_24/" />
-<meta property="article:published_time" content="2020-11-14T00:00:00+00:00" />
-<meta property="article:modified_time" content="2020-11-14T00:00:00+00:00" />
-<title>Phase 5 Kickstart Meeting | The Sound Of AI - Open source Research</title>
+<meta property="og:url" content="https://thesoundofaiosr.github.io/docs/resources/implementation/" />
+<meta property="article:published_time" content="2021-04-24T00:00:00+00:00" />
+<meta property="article:modified_time" content="2021-04-24T00:00:00+00:00" />
+<title>Implementation | The Sound Of AI - Open source Research</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/book.min.134b70e5316650a530cb42e4e8630b2a01d532bebfc0337028211175336e4806.css" integrity="sha256-E0tw5TFmUKUwy0Lk6GMLKgHVMr6/wDNwKCERdTNuSAY=">
@@ -120,7 +124,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="https://thesoundofaiosr.github.io/docs/resources/implementation/" class="">Implementation</a>
+    <a href="https://thesoundofaiosr.github.io/docs/resources/implementation/" class=" active">Implementation</a>
   
 
         </li>
@@ -177,7 +181,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <input type="checkbox" id="section-68233a7a5f89afe3d70759cbf13d802a" class="toggle" checked />
+    <input type="checkbox" id="section-68233a7a5f89afe3d70759cbf13d802a" class="toggle"  />
     <label for="section-68233a7a5f89afe3d70759cbf13d802a" class="flex justify-between">
       <a  class="">All Members Meetings</a>
       <span>▾</span>
@@ -337,7 +341,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="https://thesoundofaiosr.github.io/docs/allmembersmeetings/2021_01_24/" class=" active">Phase 5 Kickstart Meeting</a>
+    <a href="https://thesoundofaiosr.github.io/docs/allmembersmeetings/2021_01_24/" class="">Phase 5 Kickstart Meeting</a>
   
 
         </li>
@@ -536,47 +540,85 @@ https://github.com/alex-shpak/hugo-book
     <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
   </label>
 
-  <strong>Phase 5 Kickstart Meeting</strong>
+  <strong>Implementation</strong>
 
   <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
     
   </label>
 </div>
 
 
   
+  <aside class="hidden clearfix">
+    
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#groups-repos">Groups repos</a>
+      <ul>
+        <li><a href="#sound-generation-pipeline">sound generation pipeline</a></li>
+        <li><a href="#music">music</a></li>
+        <li><a href="#evaluation">evaluation</a></li>
+        <li><a href="#datasets">datasets</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+  </aside>
+  
  
       </header>
 
       
       
-  <article class="markdown">
-
-
-
-<div class="container">
-    <div class="row">
-        <div class="col text-center">
-            <a id="btn-7d4ad8089d7dc680" class="book-btn" role="button" >Full screen</a>
-            <a class="book-btn" href="https://docs.google.com/presentation/d/e/2PACX-1vTz0ASJHZ6RTeR2fVB-T9u2ZArPPHoxfbsY1J9oULrW7jmFmboEZfreArJzqUf0X_R8tJgdIgH4Dyb-/embed?start=false&amp;loop=false&amp;delayms=3000" role="button" target="_blank">Open in a new page</a>
-        </div>
-</div>
-<iframe id="ifm-7d4ad8089d7dc680" src="https://docs.google.com/presentation/d/e/2PACX-1vTz0ASJHZ6RTeR2fVB-T9u2ZArPPHoxfbsY1J9oULrW7jmFmboEZfreArJzqUf0X_R8tJgdIgH4Dyb-/embed?start=false&amp;loop=false&amp;delayms=3000" width=100% height=569 frameborder="0" ></iframe>
-
-<script>
-    var button = document.getElementById("btn-7d4ad8089d7dc680");
-    button.onclick = ()=>{
-        var elem = document.getElementById("ifm-7d4ad8089d7dc680");
-        if (elem.requestFullscreen) {
-        elem.requestFullscreen();
-        } else if (elem.webkitRequestFullscreen) {  
-        elem.webkitRequestFullscreen();
-        } else if (elem.msRequestFullscreen) {  
-        elem.msRequestFullscreen();
-        }
-    };
-</script>
-
+  <article class="markdown"><h1 id="overview">
+  Overview
+  <a class="anchor" href="#overview">#</a>
+</h1>
+<p>This repo is used to collect all groups repos and have a common install and run scripts</p>
+<ul>
+<li><a href="https://github.com/TheSoundOfAIOSR/project_common">https://github.com/TheSoundOfAIOSR/project_common</a></li>
+</ul>
+<h1 id="groups-repos">
+  Groups repos
+  <a class="anchor" href="#groups-repos">#</a>
+</h1>
+<h2 id="sound-generation-pipeline">
+  sound generation pipeline
+  <a class="anchor" href="#sound-generation-pipeline">#</a>
+</h2>
+<ul>
+<li><a href="https://github.com/TheSoundOfAIOSR/rg_speech_to_text">https://github.com/TheSoundOfAIOSR/rg_speech_to_text</a></li>
+<li><a href="https://github.com/TheSoundOfAIOSR/rg_text_to_sound">https://github.com/TheSoundOfAIOSR/rg_text_to_sound</a></li>
+<li><a href="https://github.com/TheSoundOfAIOSR/rg_sound_generation">https://github.com/TheSoundOfAIOSR/rg_sound_generation</a></li>
+<li><a href="https://github.com/TheSoundOfAIOSR/rg_production">https://github.com/TheSoundOfAIOSR/rg_production</a></li>
+</ul>
+<h2 id="music">
+  music
+  <a class="anchor" href="#music">#</a>
+</h2>
+<p>annotation tool :</p>
+<ul>
+<li><a href="https://github.com/TheSoundOfAIOSR/rg_sound_generation/tree/main/Annotator">https://github.com/TheSoundOfAIOSR/rg_sound_generation/tree/main/Annotator</a></li>
+</ul>
+<h2 id="evaluation">
+  evaluation
+  <a class="anchor" href="#evaluation">#</a>
+</h2>
+<ul>
+<li><a href="https://github.com/TheSoundOfAIOSR/rg_evaluation">https://github.com/TheSoundOfAIOSR/rg_evaluation</a></li>
+</ul>
+<h2 id="datasets">
+  datasets
+  <a class="anchor" href="#datasets">#</a>
+</h2>
+<ul>
+<li><a href="https://github.com/TheSoundOfAIOSR/rg_dataset">https://github.com/TheSoundOfAIOSR/rg_dataset</a></li>
+</ul>
 </article>
  
       
@@ -606,6 +648,25 @@ https://github.com/alex-shpak/hugo-book
       <label for="menu-control" class="hidden book-menu-overlay"></label>
     </div>
 
+    
+    <aside class="book-toc">
+      
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#groups-repos">Groups repos</a>
+      <ul>
+        <li><a href="#sound-generation-pipeline">sound generation pipeline</a></li>
+        <li><a href="#music">music</a></li>
+        <li><a href="#evaluation">evaluation</a></li>
+        <li><a href="#datasets">datasets</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+ 
+    </aside>
     
   </main>
 
