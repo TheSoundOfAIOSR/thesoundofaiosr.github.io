@@ -17,6 +17,16 @@
     </item>
     
     <item>
+      <title>Sound Generator</title>
+      <link>https://thesoundofaiosr.github.io/docs/sound_generator/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/sound_generator/</guid>
+      <description>Repository#source code and local deployWebapp#open sound generator in a new windowEmbedded
+Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-cc8b1be6d51eaccc&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-cc8b1be6d51eaccc&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
       <title>Audio Annotation</title>
       <link>https://thesoundofaiosr.github.io/docs/audio_annotation/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>

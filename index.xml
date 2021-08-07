@@ -55,13 +55,13 @@
     </item>
     
     <item>
-      <title>Audio Annotation</title>
-      <link>https://thesoundofaiosr.github.io/docs/audio_annotation/</link>
+      <title>Sound Generator</title>
+      <link>https://thesoundofaiosr.github.io/docs/sound_generator/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thesoundofaiosr.github.io/docs/audio_annotation/</guid>
-      <description>Welcome to the audio annotation tool. Please see the instruction video first.Instruction video#Tool link#The following link will open the annotation tool. Do as many annotation as you like (for reference: 15 annotations would be a good target.) open annotator tool in a new windowEmbedded
-Full screenOpen in a new pagevar button = document.</description>
+      <guid>https://thesoundofaiosr.github.io/docs/sound_generator/</guid>
+      <description>Repository#source code and local deployWebapp#open sound generator in a new windowEmbedded
+Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-cc8b1be6d51eaccc&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-cc8b1be6d51eaccc&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
     <item>
@@ -89,6 +89,16 @@ Full screenOpen in a new pagevar button = document.</description>
       
       <guid>https://thesoundofaiosr.github.io/docs/allmembersmeetings/2020_11_28/</guid>
       <description>Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-e1e24ab24cb0fdc1&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-e1e24ab24cb0fdc1&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
+      <title>Audio Annotation</title>
+      <link>https://thesoundofaiosr.github.io/docs/audio_annotation/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesoundofaiosr.github.io/docs/audio_annotation/</guid>
+      <description>Welcome to the audio annotation tool. Please see the instruction video first.Instruction video#Tool link#The following link will open the annotation tool. Do as many annotation as you like (for reference: 15 annotations would be a good target.) open annotator tool in a new windowEmbedded
+Full screenOpen in a new pagevar button = document.</description>
     </item>
     
     <item>
